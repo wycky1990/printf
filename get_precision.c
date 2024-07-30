@@ -1,7 +1,4 @@
 #include "main.h"
-#include <stdarg.h>
-#include <stdio.h>
-#include "utils.c"
 
 /**
  * get_precision - Calcuon that ision for printing
